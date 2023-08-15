@@ -1,6 +1,3 @@
-
-
-
 pokemans_dictionary = {}
 
 #print(type(pokemans_dictionary))
