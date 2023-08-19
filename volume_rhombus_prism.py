@@ -1,3 +1,6 @@
+
+
+
 long_diag = float(input("Long Diagonal (D) of the rhombus: "))
 print(long_diag)
 short_diag = float(input("Short Diagonal (d) of the rhombus: "))
