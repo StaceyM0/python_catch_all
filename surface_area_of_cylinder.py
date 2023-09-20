@@ -1,6 +1,3 @@
-
-
-
 # script to calculate surface area of cylinder
 
 # Import Libraries
